@@ -14,7 +14,7 @@ A key learning goal of this project was to use **factory functions** and keep **
 
 ## Try It Yourself
 
-[Play the Game](https://mararovsek99.github.io/Tic-Tac-Toe/)
+[Play the Game](https://mararovsek99.github.io/tic-tac-toe)
 
 
 ## License
